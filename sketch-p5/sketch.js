@@ -33,7 +33,7 @@ function draw() {
 function mousePressed() {
     // color 1
      $('.color-1').on('click', function() {
-         r = 255;  z = 0; w = 0;
+         r = 255;  g = 0; b = 0;
         
      });
     // color 2
